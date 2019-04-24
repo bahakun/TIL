@@ -16,8 +16,11 @@ Today I Learn
 *斜線*
 **太字**
 
+---
 
 ```sql
 select * from dual;
 ```
+
+https://cpp-learning.com/vscode_markdown/
 
