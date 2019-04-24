@@ -24,3 +24,5 @@ select * from dual;
 
 https://cpp-learning.com/vscode_markdown/
 
+こんな感じで`varchar(20)`スニペットできる？
+
